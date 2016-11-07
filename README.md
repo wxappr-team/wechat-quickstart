@@ -8,7 +8,6 @@
 
 如果没有收到内测邀请，可以跳过本步骤
 
-![配图](https://github.com/wxappr-team/image-repo/blob/master/setting.png?raw=true)
 
 注意：如果要以非管理员微信号在手机上体验该小程序，那么我们还需要操作“绑定开发者”。即在“用户身份”-“开发者”模块，绑定上需要体验该小程序的微信号。本教程默认注册帐号、体验都是使用管理员微信号。
 
@@ -19,8 +18,6 @@
 开发者工具安装完成后，打开并使用微信扫码登录。选择创建“项目”，填入上文获取到的 AppID ，设置一个本地项目的名称（非小程序名称），比如“我的第一个项目”，并选择一个本地的文件夹作为代码存储的目录，点击“新建项目”就可以了。
 
 为方便初学者了解微信小程序的基本代码结构，在创建过程中，如果选择的本地文件夹是个空文件夹，开发者工具会提示，是否需要创建一个 quick start 项目。选择“是”，开发者工具会帮助我们在开发目录里生成一个简单的 demo。
-
-![](https://github.com/wxappr-team/image-repo/blob/master/new_project.png?raw=true)
 
 项目创建成功后，我们就可以点击该项目，进入并看到完整的开发者工具界面，点击左侧导航，在“编辑”里可以查看和编辑我们的代码，在“调试”里可以测试代码并模拟小程序在微信客户端效果，在“项目”里可以发送到手机里预览实际效果。
 
@@ -214,10 +211,6 @@ Page({
 
 运行结果如下：
 
-![](https://github.com/wxappr-team/image-repo/blob/master/start_preview.png?raw=true)
-
 ## 手机预览
 
 开发者工具左侧菜单栏选择"项目"，点击"预览"，扫码后即可在微信客户端中体验。
-
-![](https://github.com/wxappr-team/image-repo/blob/master/start_result.png?raw=true)
